@@ -1,4 +1,4 @@
-namespace CropAPI
+namespace CropApiBackend
 {
     public class WeatherForecast
     {

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace CropAPI.Controllers
+namespace CropApiBackend.Controllers
 {
     [ApiController]
     [Route("[controller]")]
