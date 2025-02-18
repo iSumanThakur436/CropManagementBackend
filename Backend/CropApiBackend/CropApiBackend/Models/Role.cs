@@ -5,8 +5,8 @@ namespace CropApiBackend.Models
     public class Role
     {
         [Required]
-        public string Id { get; set; }
+        public required string Id { get; set; }
         [Required]
-        public string RoleName { get; set; }
+        public required string RoleName { get; set; }
     }
 }
